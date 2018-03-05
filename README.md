@@ -1,4 +1,3 @@
 # machine-learning-for-trading
-The notes of online course from Udacity
-<b>Machine learning for trading</b>
-https://www.udacity.com/course/machine-learning-for-trading--ud501
+The complete notes of online course of <b>Machine learning for trading</b> on Udacity.
+* https://www.udacity.com/course/machine-learning-for-trading--ud501
